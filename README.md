@@ -110,9 +110,6 @@ db.comments.aggregate([
 3. Escribe `use sample_mflix` y empieza por el [Nivel 0](ejercicios/nivel-0-primeros-pasos.md).
 4. Intenta cada ejercicio antes de mirar la solución.
 
-> 💡 MongoDB distingue mayúsculas y minúsculas, y los datos están en inglés. Usa `.limit()` para no llenar la pantalla y, si sale «Type "it" for more», escribe `it`.
->
-> 🛡️ Los ejercicios 34 y 35 modifican datos: el [Nivel 4](ejercicios/nivel-4-actualizaciones.md) explica cómo trabajar sobre una copia.
 
 ## Chuleta
 
